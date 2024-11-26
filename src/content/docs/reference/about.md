@@ -9,6 +9,10 @@ sidebar:
 
 The GR-96 comes in two different versions. The XXX with 192AH battery capacity, and YYY with 96AH battery capacity. Both models have all the same functionality, but the XXX will last twice as long between charges.
 
+## Specifications
+
+// See https://www.steelgreenmfg.com/wp-content/uploads/2024/11/sg-series-operators-manual-11-06-2024.pdf
+
 ## Battery Life
 
 No matter which model you choose, you can expect the GR-96 to last through a full day of use with plenty of charge remaining.
