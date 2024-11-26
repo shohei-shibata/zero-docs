@@ -18,13 +18,6 @@ export default defineConfig({
 			},
 			sidebar: [
 				{
-					label: 'Getting Started',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
-					],
-				},
-				{
 					label: 'Operations',
 					autogenerate: { directory: 'operations' },
 				},
@@ -35,6 +28,10 @@ export default defineConfig({
 				{
 					label: 'Troubleshooting',
 					autogenerate: { directory: 'troubleshooting' },
+				},
+				{
+					label: 'Reference',
+					autogenerate: { directory: 'reference' },
 				},
 			],
 		}),
