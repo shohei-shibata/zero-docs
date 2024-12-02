@@ -5,6 +5,18 @@ sidebar:
   order: 1
 ---
 
+Read this manual fully before operating the GR-96.
+
+## Product Registration
+
+Registration procedure
+
+## Product Warranty
+
+All parts of the GR-96 is protected with a 2-year warranty from any material or manufacturing defects, except for the battery which is protected up to 11 years. 
+
+The warranty is subject to further details which are described in the [warranty section](/reference/warranty).
+
 ## Models
 
 The GR-96 comes in two different versions. The XXX with 192AH battery capacity, and YYY with 96AH battery capacity. Both models have all the same functionality, but the XXX will last twice as long between charges.
@@ -12,6 +24,10 @@ The GR-96 comes in two different versions. The XXX with 192AH battery capacity, 
 ## Specifications
 
 // See https://www.steelgreenmfg.com/wp-content/uploads/2024/11/sg-series-operators-manual-11-06-2024.pdf
+
+## Machine Usage
+
+The GR-96 has been tested vigorously to ensure the operator's safety as well as the durability of the equipment. As long as the product is used in manners that are described in this manual, and within the conditions and the limitations defined also in this document, the GR-96 will provide many years of safety and productivity with minimal maintenance. However, the GR-96 is a powerful machine that could cause injury and/or damage when not used properly. Please read this instruction manual carefuly, always take caution when operating it, and when there are any questions, please reach out to your place of purchase or to the ZERO Turf Machines support team.
 
 ## Battery Life
 
