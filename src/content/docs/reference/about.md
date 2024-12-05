@@ -19,7 +19,7 @@ The GR-96 comes in two different versions. The XXX with 192AH battery capacity, 
 
 ## Specifications
 
-// See https://www.steelgreenmfg.com/wp-content/uploads/2024/11/sg-series-operators-manual-11-06-2024.pdf
+Content coming soon
 
 ## Machine Usage
 
