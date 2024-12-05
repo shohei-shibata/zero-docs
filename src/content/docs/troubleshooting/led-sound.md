@@ -5,4 +5,6 @@ sidebar:
   order: 1
 ---
 
-What to do if machine will not start/drive
+Content coming soon...
+
+This will be a guide on the meaning on LED and audible signals.

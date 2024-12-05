@@ -5,4 +5,4 @@ sidebar:
   order: 2
 ---
 
-### Content Coming Soon...
+Show image of the dashboard and indicate purpose of each item

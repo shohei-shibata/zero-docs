@@ -17,6 +17,14 @@ export default defineConfig({
         linkedin: 'https://www.linkedin.com/company/jkv-engineering-corp/',
 			},
 			sidebar: [
+        {
+          label: 'Start Here',
+          items: [
+            'reference/about',
+            'operations/safety',
+            'reference/contact',
+          ]
+        },
 				{
 					label: 'Operations',
 					autogenerate: { directory: 'operations' },

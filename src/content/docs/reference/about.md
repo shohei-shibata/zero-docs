@@ -7,10 +7,6 @@ sidebar:
 
 Read this manual fully before operating the GR-96.
 
-## Product Registration
-
-Registration procedure
-
 ## Product Warranty
 
 All parts of the GR-96 is protected with a 2-year warranty from any material or manufacturing defects, except for the battery which is protected up to 11 years. 
