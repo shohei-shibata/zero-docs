@@ -11,6 +11,8 @@ Charging the GR-96 is almost as easy as charging your phone. Simply plug the cha
 
 The charging port is located below the hip cushion. 
 
+![Charging Port](../../../assets/images/charger-port.png)
+
 First, remove the dummy plug that is in the charging port by squeezing the metal tabs and pullling it. 
 
 Then, insert the charger plug until you hear a click from each of the two metal tabs.

@@ -4,8 +4,11 @@ description: A guide in my new Starlight docs site.
 sidebar:
   order: 1
 ---
+import { Aside } from '@astrojs/starlight/components';
 
+<Aside type="caution" title="Caution">
 Read this manual fully before operating the GR-96.
+</Aside>
 
 ## Product Warranty
 
@@ -19,7 +22,44 @@ The GR-96 comes in two different versions. The XXX with 192AH battery capacity, 
 
 ## Specifications
 
-Content coming soon
+<table>
+    <thead>
+        <th></th>
+        <th>GR96-XXX</th>
+        <th>GR96-YYY</th>
+    </thead>
+    <tr>
+        <th>Battery </th>
+        <td>48V 192AH</td>
+        <td>48V 96AH</td>
+    </tr>
+    <tr>
+        <th>Range</th>
+        <td>3 days</td>
+        <td>1.5 days</td>
+    </tr>
+    <tr>
+        <th>Vehicle Weight (dry)</th>
+        <td>903 lbs</td>
+        <td>818 lbs</td>
+    </tr>
+    <tr>
+        <th>Max Speed</th>
+        <td colspan="2" style="text-align:center;">8 mph</td>
+    </tr>
+    <tr>
+        <th>Spray Capacity</th>
+        <td colspan="2" style="text-align:center;">24 gallons</td>
+    </tr>
+    <tr>
+        <th>Spray Width</th>
+        <td colspan="2" style="text-align:center;">40&quot; to 80&quot;</td>
+    </tr>
+    <tr>
+        <th>Hopper Capacity</th>
+        <td colspan="2" style="text-align:center;">220 lbs</td>
+    </tr>
+</table>
 
 ## Machine Usage
 

@@ -21,7 +21,7 @@ export default defineConfig({
           label: 'Start Here',
           items: [
             'reference/about',
-            'operations/safety',
+            'before-you-start',
             'reference/contact',
           ]
         },
