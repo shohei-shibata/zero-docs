@@ -1,6 +1,6 @@
 ---
 title: Serial Number
-description: How to read the serial number card on your GR-96
+description: How to read the serial number card on your GR96
 sidebar:
   order: 3
 ---

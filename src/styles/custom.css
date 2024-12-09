@@ -1,0 +1,61 @@
+:root {
+  /* radii */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-rounded: 999px;
+
+  /* spacing */
+  --space-sm: 4px;
+  --space-md: 8px;
+  --space-lg: 16px;
+  --space-xl: 20px;
+  --space-2xl: 24px;
+  --space-3xl: 48px;
+
+  /* line-height */
+  --solid: 1;
+  --dense: 1.25;
+  --default: 1.5;
+  --loose: 2;
+
+  /* letter-spacing */
+  --tracked: 0.075em;
+  --tight: -0.015em;
+
+  /* font-weight */
+  --body: 400;
+  --medium: 500;
+  --semibold: 600;
+  --bold: 700;
+
+  /* font-size */
+  --text-xs: 12px;
+  --text-sm: 14px;
+  --text-md: 16px;
+  --text-lg: 18px;
+  --text-xl: 20px;
+  --text-2xl: 24px;
+  --text-3xl: 32px;
+}
+img {
+  border-radius: var(--radius-md);
+}
+#spec-table {
+  display: table;
+  table-layout: auto;
+  width: 80%;
+}
+#spec-table thead th,
+#spec-table td {
+  text-align: center;
+}
+.sl-steps img {
+  border-radius: var(--radius-md);
+  max-width: 400px;
+  margin: var(--space-lg) 0;
+}
+@media screen and (max-width: 768px) {
+  #spec-table {
+    width: 100%;
+  }
+}

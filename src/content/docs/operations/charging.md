@@ -1,13 +1,13 @@
 ---
 title: Charging
-description: How to charge the battery on the GR-96
+description: How to charge the battery on the GR96
 sidebar:
   order: 8
 ---
 
-Charging the GR-96 is almost as easy as charging your phone. Simply plug the charger into a standard 110V outlet, and plug the other end of the charger into the charging port on the GR-96. The time it takes to fully recharge will depend on how far the batteries are depleted, plus other environmental factors. However full recharge on a two-battery version should never take more than 6 hours.
+Charging the GR96 is almost as easy as charging your phone. Simply plug the charger into a standard 110V outlet, and plug the other end of the charger into the charging port on the GR96. The time it takes to fully recharge will depend on how far the batteries are depleted, plus other environmental factors. However full recharge on a two-battery version should never take more than 6 hours.
 
-### Charging Port on GR-96
+### Charging Port on GR96
 
 The charging port is located below the hip cushion. 
 

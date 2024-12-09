@@ -7,9 +7,9 @@ sidebar:
 
 ## General Note
 
-* Generally, air blowing and wiping are the preferred methods to keep the GR-96 clean.
+* Generally, air blowing and wiping are the preferred methods to keep the GR96 clean.
 * The machine can be washed with water, but we recommend that you keep electrical components and wiring away from water as much as possible, and dry off quickly afterwards.
-* Although GR-96 is designed to be splash-proof, you should never submerge the machine in water or pressure-wash it.
+* Although GR96 is designed to be splash-proof, you should never submerge the machine in water or pressure-wash it.
 
 ## Spreader (Hopper) Cleaning
 

@@ -22,7 +22,6 @@ export default defineConfig({
           items: [
             'reference/about',
             'before-you-start',
-            'reference/contact',
           ]
         },
 				{
@@ -42,6 +41,10 @@ export default defineConfig({
 					autogenerate: { directory: 'reference' },
 				},
 			],
+      customCss: [
+        // Relative path to your custom CSS file
+        './src/styles/custom.css',
+      ],
 		}),
 	],
 });

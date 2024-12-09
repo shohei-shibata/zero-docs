@@ -1,13 +1,13 @@
 ---
 title: Warranty
-description: Information on GR-96's Warranty Policy
+description: Information on GR96's Warranty Policy
 sidebar:
   order: 2
 ---
 
 ## General Warranty Policy
 
-The GR-96 series spreader-sprayer comes with the following warranties:
+The GR96 series spreader-sprayer comes with the following warranties:
 
 * 2-year warranty from any material or manufacturing defects on all components
 * 11-year warranty for the 48V batteries

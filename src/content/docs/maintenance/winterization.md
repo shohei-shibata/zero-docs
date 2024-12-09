@@ -5,9 +5,9 @@ sidebar:
   order: 7
 ---
 
-## Before storing the GR-96 for the winter
+## Before storing the GR96 for the winter
 
-Follow the tips below to ensure that your GR-96 will be in great shape when you are ready to use it again in the spring.
+Follow the tips below to ensure that your GR96 will be in great shape when you are ready to use it again in the spring.
 
 ### Filling the spray system with antifreeze
 
@@ -21,4 +21,4 @@ Follow the tips below to ensure that your GR-96 will be in great shape when you 
 
 ## Battery maintenance during winter
 
-Although the Lithium Ion batteries used in the GR-96 will hold charge for a very long time, you should still charge them fully every 2 weeks or so to eliminate any risk of battery damage due to depleting them too far.
+Although the Lithium Ion batteries used in the GR96 will hold charge for a very long time, you should still charge them fully every 2 weeks or so to eliminate any risk of battery damage due to depleting them too far.

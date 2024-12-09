@@ -29,9 +29,13 @@ sidebar:
 14. [Hopper Deflector Adjustment](#hopper-deflector-adjustment)
 15. [Speedometer](#speedometer)
 
+![Hopper Rate Adjust Dial](../../../assets/images/hopper-rate-adjust-dial.jpg)
+
+16. [Hopper Rate Adjust Dial](#hopper-rate-adjust-dial) (Above)
+
 ### Ignition Key
 
-This is the primary ON/OFF switch for the GR-96. The key can be removed for security.
+This is the primary ON/OFF switch for the GR96. The key can be removed for security.
 
 ### E-Stop
 
@@ -83,11 +87,11 @@ Use this to adjust the sprayer system pressure.
 
 ### Hopper Gate Open/Close
 
-Starts or shuts off the flow of the hopper material.
+Starts or shuts off the flow of the hopper material. To control the material spread rate when the gate is opened, use the [adjust dial](#hopper-rate-adjust-dial) located on the front of the hopper.
 
-### Hopper Gate Opening Adjustment
+### Hopper Diffuser
 
-Use this to adjust the spread rate of the hopper material.
+Use this to adjust the spread of the hopper material.
 
 ### Hopper Deflector Adjustment
 
@@ -96,3 +100,7 @@ Use this to limit the spread of the hopper material on the left side of the vehi
 ### Speedometer
 
 Displays the current vehicle speed, cumulative drive distance (odometer), and the current ambient temperature.
+
+### Hopper Rate Adjust Dial 
+
+Control the amount of gate opening when the hopper gate is opened.
