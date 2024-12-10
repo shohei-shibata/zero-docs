@@ -5,6 +5,8 @@ sidebar:
   order: 5
 ---
 import { Aside } from '@astrojs/starlight/components';
+import { getImage } from 'astro:assets';
+import sprayCoverageImage from '../../../assets/images/auto-spray-coverage.png';
 
 ## Spray Boom
 
@@ -23,6 +25,8 @@ In the AUTO SPRAY mode, the spray will come on only while the machine is moving 
 The coverage rate is dependent upon the choice of nozzle tip as well as the spray system pressure. Use the chart below to find out the coverage rate in your setting, or to help you choose the appropriate tip for your application.
 
 ![Auto Spray Mode Coverage Lookup Table](../../../assets/images/auto-spray-coverage.png)
+
+<p><a href={sprayCoverageImage.src} target="_blank">Download this chart</a></p>
 
 <Aside type="note" title="Quick Tip">
 There is also a foot switch which can be used to interrupt the spray when desired. This can be useful when spot-spraying.
