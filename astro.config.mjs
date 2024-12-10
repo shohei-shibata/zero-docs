@@ -45,6 +45,15 @@ export default defineConfig({
         // Relative path to your custom CSS file
         './src/styles/custom.css',
       ],
+      head: [
+        {
+          tag: "meta",
+          attrs: {
+            property: "og:image",
+            content: "https://res.cloudinary.com/dmktqcuex/image/upload/v1733842798/opengraph_image_ewc6hx.png"
+          }
+        }
+      ]
 		}),
 	],
 });
