@@ -7,6 +7,12 @@ sidebar:
 
 ## Suggested Maintenance Schedule
 
+
+
+
+Download this table as a PDF file [HERE](/documents/maintenance-schedule-table-rev01.pdf)
+
+
 <table id="maintenance-schedule-table">
     <thead>
         <tr>
