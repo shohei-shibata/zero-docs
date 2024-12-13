@@ -12,6 +12,8 @@ The GR96 series spreader-sprayer comes with the following warranties:
 * 2-year warranty from any material or manufacturing defects on all components
 * 11-year warranty for the 48V batteries
 
+Warranty does not apply to wear-and-tear items such as lubricants, bushings, or bearings.
+
 ## Warranty Conditions
 
 Following conditions will cause the warranty to become void:

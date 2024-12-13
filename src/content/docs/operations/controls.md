@@ -25,7 +25,7 @@ sidebar:
 10. [Pressure Gauge](#pressure-gauge)
 11. [Pressure Adjust Dial](#pressure-adjust-dial)
 12. [Hopper Gate Open/Close](#hopper-gate-openclose)
-13. [Hopper Gate Opening Adjustment](#hopper-gate-opening-adjustment)
+13. [Hopper Spread Pattern Control](#hopper-spread-pattern-control)
 14. [Hopper Deflector Adjustment](#hopper-deflector-adjustment)
 15. [Speedometer](#speedometer)
 
@@ -87,15 +87,15 @@ Use this to adjust the sprayer system pressure.
 
 ### Hopper Gate Open/Close
 
-Starts or shuts off the flow of the hopper material. To control the material spread rate when the gate is opened, use the [adjust dial](#hopper-rate-adjust-dial) located on the front of the hopper.
+Starts or shuts off the flow of the product. To control the spread rate when the gate is opened, use the [adjust dial](#hopper-rate-adjust-dial) located on the front of the hopper.
 
 ### Hopper Diffuser
 
-Use this to adjust the spread of the hopper material.
+Use this to limit the spread of the product on the left side of the machine's travel direction.
 
-### Hopper Deflector Adjustment
+### Hopper Spread Pattern Control
 
-Use this to limit the spread of the hopper material on the left side of the vehicle's moving direction.
+Adjusting this cable will modify the spread patthern of the product. You can lay the product more densely on the left, on the right, or spread evenly in both directions.
 
 ### Speedometer
 

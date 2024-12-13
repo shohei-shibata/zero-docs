@@ -28,7 +28,7 @@ Download this table as a PDF file [HERE](/documents/maintenance-schedule-table-r
     <tbody>
         <tr>
             <td>Front Wheel Casters</td>
-            <td>Lubrication</td>
+            <td><a href="/maintenance/lubrication">Lubrication</a></td>
             <td></td>
             <td></td>
             <td></td>
